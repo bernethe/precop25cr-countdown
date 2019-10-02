@@ -1,0 +1,12 @@
+{
+  "name": "precop25cr-countdown",
+  "version": "1.0.0",
+  "description": "Cuenta regresiva para PRE COP 25 Costa Rica - Conferencia sobre Cambio Climático.",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "repository": {},
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
