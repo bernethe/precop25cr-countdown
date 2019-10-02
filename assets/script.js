@@ -1,2 +1,2 @@
-"use strict";var countDownDate,x,now,distance,init=function(n){};document.addEventListener("DOMContentLoaded",init,!1);
+"use strict";var countDownDate,x,now,distance,init=function(e){countDownDate=new Date("Oct 8, 2019 08:00:00").getTime(),x=setInterval(refreshDate,1e3),refreshDate()},refreshDate=function(e){now=(new Date).getTime(),distance=countDownDate-now;var t=Math.floor(distance/864e5),n=Math.floor(distance%864e5/36e5),o=Math.floor(distance%36e5/6e4);document.getElementById("day_txt").innerHTML=t,document.getElementById("hour_txt").innerHTML=n,document.getElementById("min_txt").innerHTML=o};document.addEventListener("DOMContentLoaded",init,!1);
 //# sourceMappingURL=script.js.map

@@ -25,6 +25,42 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/assets/aro.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/aro.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/bg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/bg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/gilroy-bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/gilroy-bold.woff",
+		"oF": 0
+		},
+	"/assets/gilroy-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/gilroy-bold.woff2",
+		"oF": 0
+		},
 	"/assets/script-mx.js": {
 		"bF": 0,
 		"ft": 64,
